@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/avr57jyiy2h8u7n0?svg=true)](https://ci.appveyor.com/project/Hav2808/for-in)
+
 # Домашнее задание к лекции «Object, Reflection и Proxy»
 
 ## `for ... in`
